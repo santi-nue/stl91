@@ -1,7 +1,8 @@
 name: OCR Processing with Tesseract
 
 on:
-  push:
+  schedule:
+    - cron:  "*/30 * * * *"   
   workflow_dispatch:  
 
 jobs:
