@@ -24,8 +24,8 @@ jobs:
     - name: Extract text from image
       run: |
         # Run OCR on the image and save the output to a text file
-        tesseract ./baner.jpg ./output
-        cat ./output.txt  # Print the extracted text to the GitHub Actions logs
+        tesseract ./baner.jpg ./output - c tessedit_char_whitelist="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/%+:°"
+        cat ./output.txt  # Print the extracted text to the GitHub Actions logs 
         
 
  
