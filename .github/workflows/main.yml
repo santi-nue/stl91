@@ -33,14 +33,14 @@ jobs:
       run: |
           # convert --help
           convert baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
-          ls - l
+          ls -l
 
     - name: Extract text from image
       run: |
         # Run OCR on the image and save the output to a text file
         tesseract ./filtered.jpg ./output
         cat ./output.txt  # Print the extracted text to the GitHub Actions logs 
-        ls - l
+        ls -l
         
 
  
