@@ -200,3 +200,12 @@ ZAC (8,4 1.9)
 
 Bri Cielo 1491 Muy Nublaca
 
+
+0770172025 23:28:17 UTC
+ZAC (8,4 1.9)
+
+8%Hr (30,0 62.9)
+6.3Km¢h SW max 31.7
+0.0mm 1.014.2m6
+Bri Cielo 15.31 Muy Nublada
+
