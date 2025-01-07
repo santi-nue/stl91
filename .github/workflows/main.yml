@@ -42,7 +42,7 @@ jobs:
         tesseract ./filtered.jpg ./output --dpi 134
         cat ./output.txt  # Print the extracted text to the GitHub Actions logs 
         ls -l
-        sed '1,2d' output.txt | head -n -1 > output2.txt
+        sed '1,1d' output.txt | head -n -4 > output2.txt
         cat ./output2.txt
 
         
