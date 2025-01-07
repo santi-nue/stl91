@@ -14,7 +14,7 @@ jobs:
 
     - name: Download image from URL and rename
       run: |
-          curl -o "baner.jpg" https://www.observatorioremoto.com/emadato/baner.jpg
+          wget -O baner.jpg "https://www.observatorioremoto.com/emadato/baner.jpg" 
 
     - name: Set up Tesseract
       run: |
