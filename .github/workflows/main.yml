@@ -31,8 +31,8 @@ jobs:
     # Filter green text using ImageMagick
     - name: Filter Green Text
       run: |
-          magick -version
-          magick baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
+          convert --help
+          convert baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
 
     - name: Extract text from image
       run: |
