@@ -23,6 +23,11 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y tesseract-ocr # Install Tesseract OCR
 
+    - name: Add magick to PATH
+      run: |
+         export PATH="/usr/local/bin:$PATH"
+         echo $PATH
+
     # Filter green text using ImageMagick
     - name: Filter Green Text
       run: |
