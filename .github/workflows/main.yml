@@ -1,0 +1,30 @@
+name: OCR Processing with Tesseract
+
+on:
+  push:
+  workflow_dispatch:  
+
+jobs:
+  ocr-job:
+    runs-on: ubuntu-latest  # Use an Ubuntu runner for the job
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4  # Checkout the code to the runner
+
+    - name: Download image from URL and rename
+      run: |
+          curl -o "baner.jpg" https://www.observatorioremoto.com/emadato/baner.jpg
+
+    - name: Set up Tesseract
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y tesseract-ocr  # Install Tesseract OCR
+
+    - name: Extract text from image
+      run: |
+        # Run OCR on the image and save the output to a text file
+        tesseract baner.jpg output.txt
+        cat output.txt  # Print the extracted text to the GitHub Actions logs
+
+ 
