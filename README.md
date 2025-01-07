@@ -118,3 +118,12 @@ Bri Cielo 1491 Muy Nublaca
 0.0mm 1.013,9m6,
 Bri Cielo 1491 Muy Nublada
 
+
+0770172025 19:08:15 UTC
+8.08C (8.4 1.9)
+
+13%Hr (90,0 62.9)
+4.0Kim¢h SW mex 31.7
+0.0mm 1.014.2m6,
+Bri Cielo 14.47 Muy Nublaca
+
