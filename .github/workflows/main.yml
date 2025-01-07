@@ -16,15 +16,22 @@ jobs:
       run: |
           wget -O baner.jpg "https://www.observatorioremoto.com/emadato/baner.jpg" 
 
+
+
     - name: Set up Tesseract
       run: |
         sudo apt-get update
-        sudo apt-get install -y tesseract-ocr  # Install Tesseract OCR
+        sudo apt-get install -y tesseract-ocr imagemagick # Install Tesseract OCR
+
+    # Filter green text using ImageMagick
+    - name: Filter Green Text
+      run: |
+          magick baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
 
     - name: Extract text from image
       run: |
         # Run OCR on the image and save the output to a text file
-        tesseract ./baner.jpg ./output -c tessedit_char_whitelist="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/%+:°"
+        tesseract ./filtered.jpg ./output
         cat ./output.txt  # Print the extracted text to the GitHub Actions logs 
         
 
