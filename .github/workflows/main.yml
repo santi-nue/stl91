@@ -32,7 +32,8 @@ jobs:
     - name: Filter Green Text
       run: |
           # convert --help
-          convert baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
+          convert baner.jpg -fuzz 20% -fill white -opaque "rgb(0,255,0)" -colorspace Gray -threshold 50% filtered.jpg
+          # convert baner.jpg -fuzz 20% -fill black -opaque green -fill white +opaque green filtered.jpg
           ls -l
 
     - name: Extract text from image
