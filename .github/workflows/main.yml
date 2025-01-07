@@ -46,5 +46,12 @@ jobs:
         cat ./output2.txt
 
         
-
+    - name: Commit and push image
+      run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cat output2.txt >> README.md
+          git add README.md
+          git commit -m "Add Readme.md" 
+          git push
  
