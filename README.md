@@ -209,3 +209,12 @@ ZAC (8,4 1.9)
 0.0mm 1.014.2m6
 Bri Cielo 15.31 Muy Nublada
 
+
+0870172025 1:14:19 UTC
+ZC (7.9 7.7)
+
+1 1%Hr (849 83.6)
+O5Km/h Smext49
+0.0mm 1.013,8m6
+Bri Cielo 1491 Muy Nublaca
+
