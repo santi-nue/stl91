@@ -264,3 +264,12 @@ Bri. Cielo 15.43 Muy Nublada
 0.0mm 1.013,2m6
 Bri Cielo 15.79 Muy Nublada
 
+
+0870172025 5:15:21 UTC
+ZBEC (7.9 7.5)
+
+19%Hr (85.4 83.6)
+4.6Kim¢h SW max 149
+0.0mm 1.012.865
+Bri. Cielo 16,05 Muy Nublaca
+
