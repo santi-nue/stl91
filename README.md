@@ -412,3 +412,10 @@ T6?w/m2 (31%ac) Nubes
 0.0mm 1.009,2mé
 T14wjmn2 (32%ac) Nubes
 
+0870172025 15:11:25 UTC
+1058C (11,0 67)
+24H (85,7 62,9)
+16.1Kmph_S tmex.24.9
+0.0mm 1.008, 1mé
+Tiw/m2 G2%ac) Muy Nublado
+
