@@ -376,3 +376,10 @@ TO4w/m2 (3226ec) Muy Nublado
 0.0mm 1.011.265
 7Ow/m2 GO%ac) Muy Nublado
 
+0870172025 12:34:23 UTC
+103°C (10,3 67)
+eH (85,7 72,2)
+10.3Kmh W mex 20.1
+0.0mm 1.010,2mé
+T42wjm2 (282%ac) Muy Nublado
+
