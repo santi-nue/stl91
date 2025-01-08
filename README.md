@@ -355,3 +355,10 @@ O.0Km¢h W mex17.3
 0.0mm 1.012.965
 Stw/m2 (27%ac) Muy Nublado
 
+0870172025 10:29:22 UTC
+ZAC (7.9 6.7)
+.A%eH (85,7 82,2)
+17Km¢h W mex1?.3
+0.0mm 1.013,1m6
+129w/m2 (28%ac) Muy Nublado
+
