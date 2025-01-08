@@ -362,3 +362,10 @@ ZAC (7.9 6.7)
 0.0mm 1.013,1m6
 129w/m2 (28%ac) Muy Nublado
 
+0870172025 11:11:23 UTC
+8.3C (85 6.7)
+13%Hr (85,7 79,7)
+O.0Km/h S rmext7.3
+0.0mm 1.012.068
+TO4w/m2 (3226ec) Muy Nublado
+
