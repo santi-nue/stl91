@@ -419,3 +419,10 @@ T14wjmn2 (32%ac) Nubes
 0.0mm 1.008, 1mé
 Tiw/m2 G2%ac) Muy Nublado
 
+0870172025 15:32:25 UTC
+103°C (11,0 67)
+%Hi (85,7 62.9)
+1km¢h SW max 29.9
+0.0mm 1.009,0me
+24w/m2 G1%ac) Muy Nublado
+
