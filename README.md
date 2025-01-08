@@ -369,3 +369,10 @@ O.0Km/h S rmext7.3
 0.0mm 1.012.068
 TO4w/m2 (3226ec) Muy Nublado
 
+0870172025 11:32:23 UTC
+86°C (8.6 6.7)
+1 7%Hr (85,7 79.6)
+6.3Km/h 8 mext7.3
+0.0mm 1.011.265
+7Ow/m2 GO%ac) Muy Nublado
+
