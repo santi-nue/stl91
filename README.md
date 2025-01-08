@@ -480,3 +480,12 @@ Bri. Cielo 15.94 Llueve
 
 Bri Cielo 15.74 Llueve
 
+
+0870172025 19:12:27 UTC
+758C (11.0 67)
+
+14%Hr (94.4 62.9)
+6.3Kim¢h SW max 29.9
+0.0mm 1.010,5m6,
+Bri Cielo 15.39 Llueve
+
