@@ -383,3 +383,10 @@ eH (85,7 72,2)
 0.0mm 1.010,2mé
 T42wjm2 (282%ac) Muy Nublado
 
+0870172025 13:16:24 UTC
+1058C (10,6 6.7)
+Hi (85,7 68.6)
+5.1Km¢h W max 29,8
+0.0mm 1.010,4mé
+Bew/m2 (29%ac) Muy Nublado
+
