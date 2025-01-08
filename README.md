@@ -273,3 +273,12 @@ ZBEC (7.9 7.5)
 0.0mm 1.012.865
 Bri. Cielo 16,05 Muy Nublaca
 
+
+0870172025 5:36:21 UTC
+ZAC (7.9 7.4)
+
+.1%Hr (85,4 83.6)
+4.0Kim¢h SW max 14.9
+0.0mm 1.012.5m6
+Bri Cielo 16.41 Muy Nublada
+
