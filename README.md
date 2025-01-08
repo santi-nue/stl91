@@ -426,3 +426,11 @@ Tiw/m2 G2%ac) Muy Nublado
 0.0mm 1.009,0me
 24w/m2 G1%ac) Muy Nublado
 
+0870172025 16:14:25 UTC
+101C (11,0 67)
+
+Hi (85,7 62,9)
+15.5Kmph S mex24.9
+0.0mm 1,008, 1mé
+Owém2 (31%ac) Muy Nublacla
+
