@@ -616,3 +616,12 @@ Bri.Cielo 16,76 Muy Nublada
 0.0mm 1.011,2m6
 Bri Cielo 16.44 Muy Nublaca
 
+
+0970172025 5:30:32 UTC
+9.08C (8,7 8.5)
+
+19%Hr (25.4 89.0)
+13.8Kmyh SW max 265
+O.0rnmn 1.011,2m6
+Bri.Cielo 15,89 Muy Nublada
+
