@@ -607,3 +607,12 @@ BiKm/h 8 rmex.26,5
 0.0mm 1.010,9m6
 Bri.Cielo 16,76 Muy Nublada
 
+
+0970172025 5:09:31 UTC
+9.08C (8,7 8.5)
+
+17%Hr (95.4 89.0)
+13:2Kmyh SW max 265
+0.0mm 1.011,2m6
+Bri Cielo 16.44 Muy Nublaca
+
